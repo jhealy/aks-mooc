@@ -73,16 +73,16 @@ Suggested follow-on is AKS OpenHack onsite at custom location.
 
 ## BUILD, RUN
 
-Focus on developer angles, the idea of running a microservice in a container. 
+Focus on developer angles, the idea of running a microservice in a container.
 
 * Project design and layout for k8s - https://info.microsoft.com/ww-OnDemandRegistration-successful-kubernetes-applications-webinar.html
 * Authentication and authorization - https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-identity  (maybe have this in tips)
 * Dev and debug apps against an aks cluster - https://docs.microsoft.com/en-us/azure/aks/developer-best-practices-resource-management#develop-and-debug-applications-against-an-aks-cluster
-
-* BUILD AND RUN A LINUX .NET CORE APP IN AKS
-* BUILD AND RUN A .NET APP IN AKS
-* BUILD AND RUN A NODE.JS APP IN AKS
-* BUILD AND RUN A PYTHON APP IN AKS
+* Build and run in various environments
+  * Linux .NET Core
+  * .NET Framework
+  * Node.js web service and web
+  * Python
 
 ## MONITORING / LOGGING AND STORAGE
 
