@@ -11,6 +11,8 @@ Homework
 * Phippy goes to the zoo (read) - https://azure.microsoft.com/mediahandler/files/resourcefiles/phippy-goes-to-the-zoo/Phippy%20Goes%20To%20The%20Zoo_MSFTonline.pdf
 * Brendan Burns Video Series (watch)
 
+Homework - none?
+
 ## INTRO TO DOCKER
 
 Focus on docker containers, build and deploy
@@ -30,9 +32,7 @@ Topics
 * Building images
 * Dockerfile tips
 
-Homework
-
-* Standup image from docker as an AKS Container, call from postman or curl
+Homework - Standup image from docker as an AKS Container, call from postman or curl
 
 ## INTRO TO KUBERNETES
 
@@ -44,6 +44,8 @@ Topic
 * Secrets
 * Networking
 * Deploying services to k8s
+
+Homework - Deploy docker image into k8s
 
 ## INTRO TO AKS
 
@@ -101,10 +103,12 @@ Container analytics, prometheus, other things
 
 * d50 materials
 * aks reference archs
+* docker files in k8s, other items
+* When is PaaS a better fit?  When is containers a better fit?
 
 ## FINAL EXERCISE
 
-tbd
+AKS Openhack - live!!!!!
 
 ## TOPICS NOT COVERED
 
