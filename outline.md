@@ -79,15 +79,12 @@ Focus on developer angles, the idea of running a microservice in a container.
 
 * BUILD AND RUN A LINUX .NET CORE APP IN AKS
 * BUILD AND RUN A .NET APP IN AKS
-* MONITORING
 * BUILD AND RUN A NODE.JS APP IN AKS
 * BUILD AND RUN A PYTHON APP IN AKS
 
-## STORAGE
+## MONITORING / LOGGING AND STORAGE
 
 * Storage and backup in AKS - https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-storage
-
-## MONITORING AND LOGGING
 
 Container analytics, prometheus, other things
 
