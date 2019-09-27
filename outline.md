@@ -97,7 +97,7 @@ Container analytics, prometheus, other things
 * Service mesh, consul or linker or istio
 * pod security - https://docs.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security
 
-## TIPS AND TRICKS
+## DESIGN PRACTICES
 
 * d50 materials
 * aks reference archs
