@@ -69,6 +69,8 @@ Homework - AKS Workshop - https://aksworkshop.io/ (big homework)
 * AzDevops - https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks
 * Helm
 
+Suggested follow-on is AKS OpenHack onsite at custom location.
+
 ## BUILD, RUN
 
 Focus on developer angles, the idea of running a microservice in a container. 
