@@ -64,7 +64,7 @@ Student requirements - Access to Explorer Subscription / Portal in Azure
 
 Homework - AKS Workshop - https://aksworkshop.io/ (big homework)
 
-## DEPLOYMENT
+## DEVOPS
 
 * AzDevops - https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks
 * Helm
