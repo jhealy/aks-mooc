@@ -51,6 +51,8 @@ Topics
 
 * What is AKS?
 * Create AKS Cluster
+* Linux simple aks deploy - 
+* Windows simple aks deploy - https://github.com/Azure/aks-engine/blob/master/docs/topics/windows.md - 
 
 Materials sourcing
 

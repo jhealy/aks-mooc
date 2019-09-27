@@ -2,6 +2,7 @@
 
 ## AKS
 
+* DOCS - https://docs.microsoft.com/en-us/azure/aks/
 * Intro to AKS - ms learn - https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/
 * AKS Hackfest - https://github.com/Azure/kubernetes-hackfest
 * Kubernetes learning path, aka AKS in 50 Days - https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/
